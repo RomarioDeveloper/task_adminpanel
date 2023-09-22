@@ -1,2 +1,1 @@
-# task_adminpanel
-Admin panel on Node js 
+Author Roman Ustimenko and Zhelnin Dmitriy
